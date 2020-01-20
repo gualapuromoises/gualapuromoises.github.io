@@ -1,2 +1,2 @@
 # gualapuromoises.github.io
-Courses in precalculus, planar geometry
+The website for Moises, it contains some material on precalculus, geometry and programming
